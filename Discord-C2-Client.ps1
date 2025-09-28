@@ -12,6 +12,7 @@
 
 -SETUP THE SCRIPT
 1. Copy the token into the script directly below.
+2. Make Global:parent your own (Optional)
 
 **INFORMATION**
 - The Discord bot you use must be in one server ONLY
@@ -2016,3 +2017,4 @@ while ($true) {
     }
     Sleep 3
 }
+
